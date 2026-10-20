@@ -1,21 +1,21 @@
-#Translation Portfolio: Urban Planning & Public Policy (French to Portuguese)
+# Translation Portfolio: Urban Planning & Public Policy (French to Portuguese)
 
 This repository serves as a sample for my translation portfolio in Urban Planning, Human Geography, and Public Policy.
 Project Overview
 
 Source Text: Executive Summary / Report excerpt on temporary land use and urban occupancy in the Greater Paris Metropolitan Area (Projets d’occupation temporaire dans le Grand Paris).
 
-Language Pair: French (FR) ➔ Brazilian Portuguese (PT-BR).
+**Language Pair:** French (FR) ➔ Brazilian Portuguese (PT-BR).
 
-Domain: Urban Geography, Land Governance, Public Policy, Regional Planning.
+**Domain:** Urban Geography, Land Governance, Public Policy, Regional Planning.
 
-📂 Repository Structure
+**📂 Repository Structure**
 
-original/: Source text in French.
+**Original:** Source text in French.
 
-traducao/: Target translation in Brazilian Portuguese.
+**Translation:**: Target translation in Brazilian Portuguese.
 
-🔍 Translation & Localization Insights
+**🔍 Translation & Localization Insights**
 
 Translating technical urban planning documentation requires localized institutional vocabulary, precision with spatial terminology, and readability for decision-makers:
 
