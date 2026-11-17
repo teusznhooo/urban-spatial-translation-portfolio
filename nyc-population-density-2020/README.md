@@ -1,6 +1,6 @@
 # NYC Population Density by Neighborhood (2020)
 
-![NYC Population Density Map](nyc_population_density_2020.png)
+![NYC Population Density Map](NYC_Population_Density_2020.png)
 
 This project maps population density across New York City's Neighborhood Tabulation Areas (NTAs). My main goal here was to build a clean choropleth map in QGIS, going from raw spatial boundaries to a final print layout ready for presentation.
 
